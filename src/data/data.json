@@ -1,0 +1,136 @@
+{
+  "Header": {
+    "title": "Visi Misi",
+    "paragraph": "Sebagaimana umumnya perusahaan-perusahaan, Perseroan memiliki seperangkat prinsip panduan yang menjadi acuan bagi manajemen maupun karyawan dalam mengembangkan strategi Perseroan serta dalam membangun reputasi Perseroan."
+  },
+  "About": {
+    "paragraph": "Perusahaan Teknologi Informasi dan Komunikasi (TIK) yang memiliki harapan dapat menjadi yang terkemuka di Indonesia dengan mengedepankan kepercayan dan kepuasan kliennya. Perseroan dikenal memiliki portofolio yang komprehensif dalam bidang distribusi perangkat keras dan peranti lunak TI. Perhatian pada kualitas, kecepatan dan ketepatan adalah jaminan bahwa kami akan selalu berada satu langkah lebih maju dari para pesaing kami.",
+    "Why": [
+      "Profesional",
+      "Cepat, tepat dan akurat",
+      "Memenuhi kebutuhan Anda",
+      "Peace of mind"
+    ],
+    "Why2": []
+  },
+  "Services": [
+    {
+      "icon": "fa fa-file-text",
+      "name": "SKA/SKT",
+      "text": "SKT (Sertifikat Keterampilan) adalah bukti kompetensi dan kemampuan profesi keterampilan kerja bidang Jasa Pelaksana Konstruksi yang harus dimiliki tenaga kerja/ahli perusahaan untuk dapat ditetapkan sebagai Penanggung Jawab Teknik (PJT) dalam permohonan Sertifikasi dan Registrasi Jasa Pelaksana Konstruksi. SKT adalah salah satu persyaratan utama untuk mengajukan permohonan Sertifikasi dan Registrasi Badan Usaha Jasa Pelaksana Konstruksi golongan kecil (K1, K2 dan K3) SKT tersebut dikeluarkan oleh asosiasi profesi jasa konstruksi yang telah diakreditasi LPJK. Masa berlaku Sertifikat Keterampilan (SKT) adalah 3 (tiga) tahun sejak SKT terbit."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "SBUJK",
+      "text": "SERTIFIKAT BADAN USAHA JASA KONSTRUKSI ADALA SERTIFIKAT YANG DIKELUARKAN OLEH LPJK KEPADA PERUSAHAAN YANG TELAH LULUS SERTIFIKASI SEBAGAI BUKTI PERUSAHAAN MAMPU MELAKSANAKAN PEKERJAAN PENGADAAN BARANG  DAN JASA SESUAI DENGAN KLASIFIKASI BIDANG, SUB KLASIFIKASI BIDANG YANG TERCANTUM PADA SERTIFIKAT BADAN USAHA. SERTIFIKAT BERGUNA BAGI PERUSAHAAN SEBAGAI ACUAN UNTUK DAPAT MENGUKUTI PRAKUALIFIKASI TENDER/LELANG PEKERJAAN PENGADAAN BARANG ATAU JASA DI INSTANSI PEMERINTAH, BUMN, SWASTA DAN LAINNYA."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "SIUJK",
+      "text": "SIUJK adalah sebuah singkatan dari Surat Izin Usaha Jasa Konstruksi yang harus dimiliki oleh setiap pelaku usaha di sektor konstruksi. SIUJK ini menandakan bahwa perusahaan kita telah layak dan dianggap mampu untuk mengerjakan proyek yang sesuai dengan kualifikasi perusahaan nya. Perlu diketahui, bahwa kualifikasi ini sengaja dibuat agar tidak terjadi kesalahan dalam Anggaran Dasar Perusahaan (ADP). Maka dari itu LPJK telah membagi kualifikasi perusahaan agar sesuai dengan kualifikasi proyek. Untuk kualifikasi K1, K2 perusahaan harus sudah berbentuk CV, sedangkan untuk K3, M1, M2, B1, dan B2 harus sudah berbentuk PT. Sedangkan untuk Penanaman Modal Asing (PMA) harus langsung masuk ke kualifikasi B2."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "ISO",
+      "text": "ISO (International Standards Organization) merupakan sebuah organisasi yang bergerak di bidang penjaminan mutu sebuah bisnis yang memproduksi suatu hal yang digunakan oleh masyarakat luas serta memberikan sertifikasi untuk membuktikan kecocokan antara tujuan usaha dengan usaha yang telah dijalankan. Pemberian sertifikasi ISO sendiri dibedakan menurut kegunaannya."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "SIUJPTL",
+      "text": "SURAT IZIN USAHA JASA PENUNJANG TENAGA LISTRIK MERUPAKAN IZIN YANG DIBERIKAN KEPADA BADAN USAHA YANG TELAH MEMENUHI KUALIFIKASI SESUAI DENGAN KETENTUAN YANG DI BERIKAN OLEH DIRJEN KETENAGA LISTRIKAN (DJK)."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "LEGALITAS BADAN USAHA",
+      "text": "Legalitas perusahaan yaitu Setiap bentuk usaha yang memenuhi persyaratan undang-undang dinyatakan sebagai bentuk usaha yang sah. Selain itu, Legalitas perusahaan juga merupakan dimana perusahaan yang bergerak dalam bidang apapun dinyatakan sah menurut hukum."
+    },
+    {
+      "icon": "fa fa-file-text",
+      "name": "SMK3 (KEMENAKER)",
+      "text": "SMK3 adalah Sistem Manajemen K3 atau yang sering lebih dikenal dengan sebutan SMK3 merupakan bagian dari sistem manajemen perusahaan secara keseluruhan memiliki fungsi dalam hal pengendalian risiko yang berkaitan dengan beberapa kegiatan kerja guna terciptanya iklim tempat kerja yang aman, efisien serta produktif."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Gien Marginata",
+      "job": ""
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Fahmi Aufa",
+      "job": ""
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Dwiyasa Kusuma",
+      "job": ""
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Tifani",
+      "job": ""
+    }
+  ],
+  "Contact": {
+    "address": "Menara Citibank 2nd Floor Kav. II/BA No.1 Pondok Indah, RT.3/RW 14 Pd.Pinang Kec.Kebayoran Lama Jakarta Selatan, DKI Jakarta 12310",
+    "phone": " +62 - 812 - 1094 - 5533",
+    "email": "info@baswarabumantarapacific.co.id",
+    "facebook": "www.google.com",
+    "twitter": "www.google.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "KONSULTAN",
+      "text": "Sebagai konsultan layanan lengkap, kami memberikan saran tentang setiap aspek kebutuhan Teknologi Informasi Anda. Kami membantu bisnis Anda dalam pengembangan strategi bisnis dan tujuan masa depan Anda."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "SOLUTION OPTIMIZATION",
+      "text": "Dengan mengenal Anda dan bisnis Anda, kami dapat membantu Anda mengidentifikasi dan memberikan solusi yang diperlukan untuk membangun lanskap terintegrasi yang berkelanjutan untuk mengoptimalkan bisnis Anda."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "IMPLEMENTATION",
+      "text": "Sangat penting untuk menjaga inovasi dan transformasi bisnis, dengan mempertahankan nilai dan efisiensi yang tinggi. Solusi kami diberikan dengan cara yang paling efisien tanpa mengorbankan kualitas."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "UPGRADE SOLUTION",
+      "text": "Meningkatkan ketangkasan proses, mendorong inovasi, dan mendukung model dan proses bisnis baru. Kami membantu Anda mengikuti perkembangan pesat dan perubahan teknologi di industri."
+    }
+  ]
+}
